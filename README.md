@@ -1,0 +1,2 @@
+# embedded-smart-thermostat
+A system was modeled to emulate this type of technology on an elementary level and is included in this report. The software and hardware needed to simulate a basic thermostat temperature-sensing system is laid out for replication purposes. This report also contains details of how the hardware and software interact, the theory and research behind the project, possible improvements of future iterations, fully commented and comprehensible code, and finally the conclusions made as a result.
